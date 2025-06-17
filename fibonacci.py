@@ -2,8 +2,8 @@ def fib(n):
     if n < 0:
         raise ValueError("Input must be positive")
 
-    a = 0
-    b = 1
+    a = 1
+    b = 0
 
     # Check if n is equal to 0
     if n in (0, 1):
