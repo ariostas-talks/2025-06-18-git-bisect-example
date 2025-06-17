@@ -15,4 +15,3 @@ def fib(n):
         b = c
 
     return b
-
